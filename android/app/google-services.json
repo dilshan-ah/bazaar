@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "597587499732",
+    "project_id": "bazaar-cecf7",
+    "storage_bucket": "bazaar-cecf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597587499732:android:332cc7787bef5b7c12f941",
+        "android_client_info": {
+          "package_name": "com.example.bazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597587499732-vd5qdgdl53b1rbasudl01jbkn94uflci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bazaar",
+            "certificate_hash": "13f3df12237bad01a23d98ee01bc88d368d25159"
+          }
+        },
+        {
+          "client_id": "597587499732-pncm137oj8v5shovvobhpfjqn29t9uua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6to-UVGn6QK1KkBCwA4MFN9Ctcw734s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597587499732-pncm137oj8v5shovvobhpfjqn29t9uua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
